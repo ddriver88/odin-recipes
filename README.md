@@ -1,0 +1,1 @@
+Creating a simple recipe list in HTML follwoing the odin project's lessons
